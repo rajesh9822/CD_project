@@ -25,7 +25,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 
 ###Cleaning of the data
 
-#####The run_analysis script downloads the data , combines the test and training data from accelerometer and gyroscope and summurizes on the diffrent activities of the subject. The details explanation of is given in Readme.md file
+#####The run_analysis script downloads the data , combines the test and training data from accelerometer and gyroscope and summurizes on the different activities of the subject. The details explanation of is given in Readme.md file
 
 ##Description of the variables in the output.txt file
 
